@@ -1,0 +1,30 @@
+[
+    {
+        "name": "TrueSound Earbuds",
+        "description": "True wireless earbuds with crisp sound and secure fit.",
+        "category": "Earbuds",
+        "price": 69.99,
+        "img": "https://helios-i.mashable.com/imagery/articles/01zE9fHB5Jvyh16ptez0Xdl/hero-image.fill.size_1248x702.v1634609111.jpg"
+      },
+      {
+        "name": "ActiveWear Earbuds",
+        "description": "Sweatproof wireless earbuds designed for an active lifestyle.",
+        "category": "Earbuds",
+        "price": 79.99,
+        "img": "https://photos5.appleinsider.com/gallery/45459-88539-AirPods-3-Open-case-xl.jpg"
+      },
+      {
+        "name": "BassBoost Earbuds",
+        "description": "Bass-heavy wireless earbuds with quick charge capability.",
+        "category": "Earbuds",
+        "price": 59.99,
+        "img": "https://img.drz.lazcdn.com/static/bd/p/581e2a00ee48e7bdf7465494dc74d10b.jpg_960x960q80.jpg_.webp"
+      },
+      {
+        "name": "SoundFlow Earbuds",
+        "description": "High-quality sound with a comfortable in-ear fit for long listening.",
+        "category": "Earbuds",
+        "price": 64.99,
+        "img": "https://cdn.prod.website-files.com/624b677d2850dddf85a6a3a8/642468c12f88b04362f7caef_Airpods%20and%20Hearing%20Loss%20Guide.jpg"
+      }
+]
