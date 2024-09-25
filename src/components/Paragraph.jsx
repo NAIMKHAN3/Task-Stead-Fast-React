@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Paragraph = ({className, children,}) => {
+const Paragraph = ({className, children,aos}) => {
     return (
-        <p className={`${className}`}>
+        <p className={`${className}`} data-aos={aos? aos : null}>
             {children}
         </p>
     );

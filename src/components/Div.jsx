@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Div = ({className, children,}) => {
+const Div = ({className, children,aos}) => {
     return (
-        <div className={`${className}`}>
+        <div className={`${className}`} data-aos={aos? aos : null}>
             {children}
         </div>
     );
