@@ -4,9 +4,10 @@ import Image from "../Image";
 import Heading from "../Heading";
 import Paragraph from "../Paragraph";
 
-const Card = ({ item }) => {
+const Card = ({ item,aos }) => {
   return (
     <Div
+    aos={aos}
       key={item.id}
       className="bg-gray-200 hover:bg-yellow-200 rounded-md p-4 hover:drop-shadow-2xl duration-300 hover:-translate-y-1 cursor-pointer"
     >

@@ -4,12 +4,12 @@ import Div from "../Div";
 import Heading from "../Heading";
 import Loader from "../Loader";
 
-const Neckband = () => {
+const HeadPhone = () => {
   const [data, setData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
     setIsLoading(true);
-    fetch("neckband.json")
+    fetch("headphone.json")
       .then((response) => response.json())
       .then((data) => setData(data));
       setIsLoading(false);
@@ -18,7 +18,7 @@ const Neckband = () => {
   return (
     <Div className="my-5">
       <Heading className="text-center text-2xl font-bold my-5" aos={"fade-down"}>
-        Neckband Product
+        Headphone Product
       </Heading>
       <Div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 max-w-6xl mx-auto px-4">
         {data.map((item) => (
@@ -29,4 +29,4 @@ const Neckband = () => {
   );
 };
 
-export default Neckband;
+export default HeadPhone;

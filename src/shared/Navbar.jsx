@@ -12,7 +12,7 @@ const routing = (
     <Link to={"/"} className="hover:text-yellow-400 duration-300">
       Home
     </Link>
-    <Link to={"/products"} className="hover:text-yellow-400 duration-300">
+    <Link to={"/"} className="hover:text-yellow-400 duration-300">
       Products
     </Link>
     <Link to={"/"} className="hover:text-yellow-400 duration-300">
@@ -42,7 +42,7 @@ const Navbar = () => {
               className="flex gap-2 hover:text-gray-500 cursor-pointer duration-150"
             >
               <Div className="relative ">
-                <Link to={"/cart"}>
+                <Link to={"/"}>
                   {" "}
                   <IoCartOutline className="text-2xl" />
                 </Link>

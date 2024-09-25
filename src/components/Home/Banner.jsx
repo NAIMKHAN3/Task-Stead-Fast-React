@@ -10,14 +10,14 @@ const Banner = () => {
       id="home"
       className="bg-[url('https://i.ibb.co/gtnVwYF/bunch-black-friday-gifts-golden-shopping-cart-with-copy-space.jpg')] bg-cover h-[90vh] flex justify-center md:justify-end items-center text-center"
     >
-      <Div className="banner-content px-3">
-        <Heading className="text-yellow-400 text-2xl md:text-4xl font-semibold">
+      <Div className=" px-3 mt-[-70px]">
+        <Heading className="text-yellow-400 text-2xl md:text-4xl font-semibold" aos={"fade-up"}>
           Welcome to Stead Fast
         </Heading>
-        <Paragraph className="text-yellow-400 text-base md:text-2xl my-2">
+        <Paragraph className="text-yellow-400 text-base md:text-2xl my-2" aos={"fade-up"}>
           Buy One Get One Free.
         </Paragraph>
-        <Button className="mt-4 mx-auto text-white font-semibold bg-gray-800 hover:bg-yellow-400 hover:text-black transition-all duration-400 ease-in-out px-4 py-2 rounded-full md:px-4 md:py-2 md:text-lg flex justify-items-center items-center gap-2">
+        <Button className="mt-4 mx-auto text-white font-semibold bg-gray-800 hover:bg-yellow-400 hover:text-black transition-all duration-400 ease-in-out px-4 py-2 rounded-full md:px-4 md:py-2 md:text-lg flex justify-items-center items-center gap-2" aos={"fade-down"}>
           GET STARTED
           <FaLongArrowAltRight />
         </Button>

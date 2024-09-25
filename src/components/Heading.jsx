@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Heading = ({className, children,}) => {
+const Heading = ({className, children,aos}) => {
     return (
-        <h1 className={`${className}`}>
+        <h1 className={`${className}`} data-aos={aos? aos : null}>
             {children}
         </h1>
     );
