@@ -1,11 +1,12 @@
 
-* Front end live link: <a href="">Live link</a>
+* Front end live link: <a href="https://aesthetic-churros-cc5093.netlify.app/">Live link</a>
 
 
 # Technology Frontend
 -   React.Js
 -   Tailwind CSS
 -   React-icons
+-   Aos Animation
 
 
 # Getting Started
