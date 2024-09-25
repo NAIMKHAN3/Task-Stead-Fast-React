@@ -1,0 +1,30 @@
+[
+    {
+        "name": "StudioMaster Headphone",
+        "description": "Over-ear headphones with studio-grade sound quality.",
+        "category": "Headphone",
+        "price": 149.99,
+        "img": "https://www.borofone.com/wp-content/uploads/2022/04/borofone-bo12-power-bt-headset-headphones.jpg"
+      },
+      {
+        "name": "NoiseCancel Headphone",
+        "description": "Wireless over-ear headphones with active noise cancellation.",
+        "category": "Headphone",
+        "price": 129.99,
+        "img": "https://t3.ftcdn.net/jpg/05/95/78/78/360_F_595787852_efGpIfJmAJxcof7PBsQsDmirsZ3R8o50.jpg"
+      },
+      {
+        "name": "BassBoost Headphone",
+        "description": "Powerful bass headphones with long-lasting comfort.",
+        "category": "Headphone",
+        "price": 99.99,
+        "img": "https://www.startech.com.bd/image/cache/catalog/headphone/fantech/wh01/wh01-01-500x500.jpg"
+      },
+      {
+        "name": "ComfortEar Headphone",
+        "description": "Comfortable over-ear headphones with 24-hour battery life.",
+        "category": "Headphone",
+        "price": 109.99,
+        "img": "https://dvf83rt16ac4w.cloudfront.net/upload/product/20231026_1698299879_827607.jpeg"
+      }
+]

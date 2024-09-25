@@ -1,0 +1,31 @@
+[
+    {
+        "name": "BassBoost Neckband",
+        "description": "Wireless neckband with deep bass and 12 hours of battery life.",
+        "category": "Neckband",
+        "price": 29.99,
+        "img": "https://etct.com.bd/public/uploads/opti/mobile/img/3TmASwL9PfL8eKBHtjXXZEPckK2FrJQEfcUVcTbA.webp"
+      },
+      {
+        "name": "FlexFit Neckband",
+        "description": "Flexible and lightweight neckband with noise cancellation.",
+        "category": "Neckband",
+        "price": 39.99,
+        "img": "https://etct.com.bd/public/uploads/opti/mobile/img/FA7Slq6jDVnrzegjo2928t4uncrUWBDp6WeCfT2C.webp"
+      },
+      {
+        "name": "ComfortTone Neckband",
+        "description": "Ergonomic design neckband with crystal clear sound quality.",
+        "category": "Neckband",
+        "price": 35.99,
+        "img": "https://cdn.shopclues.com/images1/thumbnails/113342/320/320/152049882-113342339-1614597385.jpg"
+      },
+      {
+        "name": "SportPro Neckband",
+        "description": "Sweat-resistant neckband with 15 hours of playtime, ideal for workouts.",
+        "category": "Neckband",
+        "price": 44.99,
+        "img": "https://m.media-amazon.com/images/I/51oG6Zlc3TL.jpg"
+      }
+    
+]
